@@ -533,7 +533,7 @@ for desc, key in {
     u"ALBUMARTISTSORT": "albumartistsort",
     u"PERFORMER": "performer",
     u"BARCODE": "barcode",
-    u"CATALOGNUMBER": "catalognumber",
+    u"CATALOG NUMBER": "catalognumber",
     u"MusicBrainz Release Track Id": "musicbrainz_releasetrackid",
     u"MusicBrainz Release Group Id": "musicbrainz_releasegroupid",
     u"MusicBrainz Work Id": "musicbrainz_workid",
